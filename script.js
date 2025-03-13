@@ -132,7 +132,7 @@ orderButtons.forEach(button => {
             button.style.transform = 'scale(1)';
             
             // Redirect after animation
-            window.open('https://www.youtube.com/', '_blank');
+            window.open('https://www.youtube.com/watch?v=BxASd_7kOnE&t=1230swatch?v=BxASd_7kOnE&t=1230swatch?v=BxASd_7kOnE&t=1230swatch?v=BxASd_7kOnE&t=1230s');
         }, 200);
     });
 });
