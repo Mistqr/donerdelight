@@ -132,7 +132,7 @@ orderButtons.forEach(button => {
             button.style.transform = 'scale(1)';
             
             // Redirect after animation
-            window.open('https://discord.gg/aquacheats');
+            window.open('https://www.just-eat.co.uk');
         }, 200);
     });
 });
